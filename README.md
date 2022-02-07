@@ -9,7 +9,7 @@ A card game built with Vanilla Javascript.
 2)	Clicks hold to save the current score or 
 3)	Rolls another  🎲 to accumulate score.
 4)	If dice rolled equals 1, all Scores not saved will be lost.
-5)	First Player to save a maximum of 20 wins the game
+5)	First Player to save a maximum of 30, wins the game
 
 <b style="font-weight:bold;">Major Syntax Used</b>
 1)	Event Listeners

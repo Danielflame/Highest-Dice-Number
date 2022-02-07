@@ -15,5 +15,7 @@ A card game built with Vanilla Javascript.
 1)	Event Listeners
 2)	DOM Manipulation
 
+View game <a href="https://danielflame.github.io/Highest-Dice-Number/">here</a>
+
 CSS Styling by Jonas Schmedtmann
 

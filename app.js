@@ -1,5 +1,7 @@
 'use strict';
 
+alert("View in Desktop Mode");
+
 // Selecting Elements
 const score01 = document.querySelector('#score--0');
 const score02 = document.getElementById('score--1');

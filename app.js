@@ -41,7 +41,7 @@ const rollDice = function () {
         //2. Display Dice
         dice01.classList.remove('hidden');
         console.log(dice);
-        dice01.src = `images/dice-${dice}.png`;
+        dice01.src = `dice-${dice}.png`;
         //3. Check for rolled 1: if true, switch to next player.
         if (dice !== 1) {
             //Add dice number to current score
